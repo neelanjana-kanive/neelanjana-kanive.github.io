@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gardening on Neelanjana</title>
+    <link>neelanjana-kanive.github.io/categories/gardening/</link>
+    <description>Recent content in gardening on Neelanjana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="neelanjana-kanive.github.io/categories/gardening/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week X of quarantine</title>
+      <link>neelanjana-kanive.github.io/blog/week-x-quarantine/</link>
+      <pubDate>Tue, 04 Aug 2020 10:07:47 +0600</pubDate>
+      
+      <guid>neelanjana-kanive.github.io/blog/week-x-quarantine/</guid>
+      <description>COVID 19 hit us like a drunk driver and spread around the world, causing a global pandemic, before we could say knife.</description>
+    </item>
+    
+  </channel>
+</rss>
