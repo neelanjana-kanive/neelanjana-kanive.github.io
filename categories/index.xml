@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Neelanjana</title>
-    <link>neelanjana-kanive.github.io/categories/</link>
+    <link>https://neelanjana-kanive.github.io/categories/</link>
     <description>Recent content in Categories on Neelanjana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Aug 2020 10:07:47 +0600</lastBuildDate>
     
-	<atom:link href="neelanjana-kanive.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://neelanjana-kanive.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>copywriting</title>
-      <link>neelanjana-kanive.github.io/categories/copywriting/</link>
+      <link>https://neelanjana-kanive.github.io/categories/copywriting/</link>
       <pubDate>Tue, 04 Aug 2020 10:07:47 +0600</pubDate>
       
-      <guid>neelanjana-kanive.github.io/categories/copywriting/</guid>
+      <guid>https://neelanjana-kanive.github.io/categories/copywriting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gardening</title>
-      <link>neelanjana-kanive.github.io/categories/gardening/</link>
+      <link>https://neelanjana-kanive.github.io/categories/gardening/</link>
       <pubDate>Tue, 04 Aug 2020 10:07:47 +0600</pubDate>
       
-      <guid>neelanjana-kanive.github.io/categories/gardening/</guid>
+      <guid>https://neelanjana-kanive.github.io/categories/gardening/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mindfullness</title>
-      <link>neelanjana-kanive.github.io/categories/mindfullness/</link>
+      <link>https://neelanjana-kanive.github.io/categories/mindfullness/</link>
       <pubDate>Tue, 04 Aug 2020 10:07:47 +0600</pubDate>
       
-      <guid>neelanjana-kanive.github.io/categories/mindfullness/</guid>
+      <guid>https://neelanjana-kanive.github.io/categories/mindfullness/</guid>
       <description></description>
     </item>
     
