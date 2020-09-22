@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>listicle on Neelanjana</title>
+    <link>https://neelanjana-kanive.github.io/categories/listicle/</link>
+    <description>Recent content in listicle on Neelanjana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2020 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://neelanjana-kanive.github.io/categories/listicle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Guide to chaotic nerves</title>
+      <link>https://neelanjana-kanive.github.io/blog/chaotic-nerves/</link>
+      <pubDate>Tue, 22 Sep 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://neelanjana-kanive.github.io/blog/chaotic-nerves/</guid>
+      <description>I have been a nervous person since the hour of birth.</description>
+    </item>
+    
+  </channel>
+</rss>
